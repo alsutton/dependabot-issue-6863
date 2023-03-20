@@ -7,5 +7,5 @@ buildscript {
 }
 
 plugins {
-    id("com.google.protobuf") version libs.versions.protoPlugin apply false
+    id("com.google.protobuf") version 0.9.2 apply false
 }
